@@ -1,0 +1,7 @@
+name: ThornyaTemplate
+author: Thornya.Club
+description: A Template
+main: club.thornya.thornyatemplate.ThornyaTemplate
+website: https://github.com/Thornya-Club/ThornyaTemplate
+version: ${project.version}
+api-version: 1.16
