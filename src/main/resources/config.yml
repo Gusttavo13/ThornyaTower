@@ -1,2 +1,28 @@
 options:
   auto-update: true
+
+##A FAZER##
+
+##Arrumar a página 17 - linha 98 (while) linha 79
+
+##Iniciar regiões
+
+##Entrada no lobby verifica se tem textura, se tem clan
+
+##Entrada na arena verifica se tem +1 pessoa do clan
+
+##Se morrer fecha sala
+
+##Se matar todos os mobs fecha a sala e upa level
+
+##Leveis com RandomMobs
+
+##Criar bosses
+
+##Maniupular(String) Localização
+
+##Log de eventos
+
+##Criar sistema dos items serem atualizados do sqlite
+
+##Só poder dar o comando se tiver clan

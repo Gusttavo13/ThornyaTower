@@ -1,7 +1,12 @@
-name: ThornyaTemplate
-author: Thornya.Club
-description: A Template
-main: club.thornya.thornyatemplate.ThornyaTemplate
-website: https://github.com/Thornya-Club/ThornyaTemplate
+name: ThornyaTower
+author: Gusttavo13
+description: Plugin das torres supremas
+main: club.thornya.thornyatower.ThornyaTower
+website: https://github.com/Thornya-Club/ThornyaTower
 version: ${project.version}
 api-version: 1.16
+depend: [WorldGuard, WorldEdit, Itemsadder, PlaceholderAPI]
+loadbefore: [WorldGuard, WorldEdit, Itemsadder]
+commands:
+  torre:
+    description: sla

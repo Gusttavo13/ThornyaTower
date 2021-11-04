@@ -1,0 +1,1011 @@
+towers:
+  menu_1:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+  menu_2:
+    - 7
+    - 8
+    - 9
+    - 10
+    - 11
+    - 12
+  menu_3:
+    - 13
+    - 14
+    - 15
+    - 16
+    - 17
+    - 18
+  menu_4:
+    - 19
+    - 20
+    - 21
+    - 22
+    - 23
+    - 24
+  menu_5:
+    - 25
+    - 26
+    - 27
+    - 28
+    - 29
+    - 30
+  menu_6:
+    - 31
+    - 32
+    - 33
+    - 34
+    - 35
+    - 36
+  menu_7:
+    - 37
+    - 38
+    - 39
+    - 40
+    - 41
+    - 42
+  menu_8:
+    - 43
+    - 44
+    - 45
+    - 46
+    - 47
+    - 48
+  menu_9:
+    - 49
+    - 50
+    - 51
+    - 52
+    - 53
+    - 54
+  menu_10:
+    - 55
+    - 56
+    - 57
+    - 58
+    - 59
+    - 60
+  menu_11:
+    - 61
+    - 62
+    - 63
+    - 64
+    - 65
+    - 66
+  menu_12:
+    - 67
+    - 68
+    - 69
+    - 70
+    - 71
+    - 72
+  menu_13:
+    - 73
+    - 74
+    - 75
+    - 76
+    - 77
+    - 78
+  menu_14:
+    - 78
+    - 79
+    - 80
+    - 81
+    - 82
+    - 83
+  menu_15:
+    - 84
+    - 85
+    - 86
+    - 87
+    - 88
+    - 89
+  menu_16:
+    - 90
+    - 91
+    - 92
+    - 93
+    - 94
+    - 95
+  menu_17:
+    - 96
+    - 97
+    - 98
+    - 99
+    - 100
+items:
+  room1:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room2:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room3:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room4:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room5:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room6:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room7:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room8:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room9:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room10:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room11:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room12:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room13:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room14:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room15:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room16:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room17:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room18:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room19:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room20:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room21:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room22:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room23:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room24:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room25:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room26:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room27:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room28:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room29:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room30:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room31:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room32:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room33:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room34:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room35:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room36:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room37:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room38:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room39:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room40:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room41:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room42:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room43:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room44:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room45:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room46:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room47:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room48:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room49:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room50:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room51:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room52:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room53:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room54:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room55:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room56:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room57:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room58:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room59:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room60:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room61:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room62:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room63:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room64:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room65:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room66:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room67:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room68:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room69:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room70:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room71:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room72:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room73:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room74:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room75:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room76:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room77:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room78:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room79:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room80:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room81:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room82:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room83:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room84:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room85:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room86:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room87:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room88:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room89:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room90:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room91:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room92:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room93:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room94:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room96:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room97:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room98:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room99:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
+  room100:
+    drops:
+      legendary: true
+      rare: true
+      common: true
+    tools:
+      axe: true
+      shovel: true
+      pickaxe: true
